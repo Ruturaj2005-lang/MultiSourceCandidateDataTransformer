@@ -1,0 +1,15 @@
+{
+    "fields":[
+        "full_name",
+        "emails",
+        "skills"
+    ],
+
+    "rename":{},
+
+    "include_provenance":false,
+
+    "include_confidence":false,
+
+    "on_missing":"omit"
+}

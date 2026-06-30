@@ -1,0 +1,30 @@
+{
+    "candidate_id": "C010",
+    "full_name": "Ruturaj Padhy",
+    "primary_email": [
+        "ruturajpadhy2005@gmail.com"
+    ],
+    "primary_phone": [
+        "+917735911353"
+    ],
+    "skills": [
+        "SQL",
+        "Java",
+        "C#",
+        "ASP.NET Core",
+        "Python",
+        "JavaScript",
+        "Sql Server",
+        "MySQL",
+        "HTML",
+        "CSS"
+    ],
+    "education": "B. Tech (Computer Science and Engineering)",
+    "experience": "6",
+    "current_company": "Capgemini",
+    "job_title": "Data Analyst",
+    "location": "Pune, India",
+    "confidence": {
+        "overall_confidence": 0.45
+    }
+}

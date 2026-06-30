@@ -1,0 +1,41 @@
+CandidateID,FullName,Email,Phone,Company,JobTitle,Location,ExperienceYears,Skills,Education,LinkedIn,GitHub
+C001,John Gupta,john.gupta1@gmail.com,9706949483,Tech Mahindra,Data Analyst,"Kolkata, India",7,Python;SQL;Git,MCA,https://linkedin.com/in/johngupta1,https://github.com/johngupta1
+C002,Tarun Reddy,tarun.reddy2@gmail.com,9788272193,TCS,Backend Developer,"Bhubaneswar, India",1,Java;Spring Boot;MySQL,B.Sc Computer Science,https://linkedin.com/in/tarunreddy2,https://github.com/tarunreddy2
+C003,Amit Reddy,amit.reddy3@gmail.com,9851941837,HCL,Software Engineer,"Bhubaneswar, India",3,React;Node.js;MongoDB,MCA,https://linkedin.com/in/amitreddy3,https://github.com/amitreddy3
+C004,Vivek Sharma,vivek.sharma4@gmail.com,9033855969,Cognizant,Python Developer,"Mumbai, India",4,Python;SQL;Git,B.Tech IT,https://linkedin.com/in/viveksharma4,https://github.com/viveksharma4
+C005,Meera Padhy,meera.padhy5@gmail.com,9097088779,Accenture,Software Engineer,"Chennai, India",1,Python;SQL;Git,B.Tech IT,https://linkedin.com/in/meerapadhy5,https://github.com/meerapadhy5
+C006,Swati Gupta,swati.gupta6@gmail.com,9521947417,Accenture,Software Engineer,"Pune, India",1,C#;ASP.NET Core;SQL Server,MCA,https://linkedin.com/in/swatigupta6,https://github.com/swatigupta6
+C007,Nitin Padhy,nitin.padhy7@gmail.com,9847361260,Wipro,Data Analyst,"Bangalore, India",6,Python;SQL;Git,B.Tech IT,https://linkedin.com/in/nitinpadhy7,https://github.com/nitinpadhy7
+C008,Riya Gupta,riya.gupta8@gmail.com,9296433307,Wipro,Java Developer,"Kolkata, India",5,Python;SQL;Git,B.Tech CSE,https://linkedin.com/in/riyagupta8,https://github.com/riyagupta8
+C009,Akash Reddy,akash.reddy9@gmail.com,9868524548,Cognizant,Python Developer,"Bhubaneswar, India",7,Python;Pandas;Power BI;SQL,B.Tech CSE,https://linkedin.com/in/akashreddy9,https://github.com/akashreddy9
+C010,Ruturaj Padhy,ruturajpadhy2005@gmail.com,77359-11353,Capgemini,Data Analyst,"Pune, India",6,C#;ASP.NET Core;SQL Server,B.Sc Computer Science,https://linkedin.com/in/ruturajverma10,https://github.com/ruturajverma10
+C011,Harsh Patel,harsh.patel11@gmail.com,9259449674,Capgemini,Java Developer,"Bhubaneswar, India",6,Python;Pandas;Power BI;SQL,B.Tech IT,https://linkedin.com/in/harshpatel11,https://github.com/harshpatel11
+C012,Emily Gupta,emily.gupta12@gmail.com,9983958686,TCS,Python Developer,"Delhi, India",8,Python;SQL;Git,B.Sc Computer Science,https://linkedin.com/in/emilygupta12,https://github.com/emilygupta12
+C013,Pooja Gupta,pooja.gupta13@gmail.com,9128634361,Cognizant,Java Developer,"Bangalore, India",5,React;Node.js;MongoDB,B.Tech IT,https://linkedin.com/in/poojagupta13,https://github.com/poojagupta13
+C014,Aditya Patel,aditya.patel14@gmail.com,9737325194,Tech Mahindra,Python Developer,"Bhubaneswar, India",3,C#;ASP.NET Core;SQL Server,B.Tech CSE,https://linkedin.com/in/adityapatel14,https://github.com/adityapatel14
+C015,Varun Sharma,varun.sharma15@gmail.com,9878288956,Infosys,Java Developer,"Mumbai, India",4,Java;Spring Boot;MySQL,B.Tech IT,https://linkedin.com/in/varunsharma15,https://github.com/varunsharma15
+C016,Vikram Das,vikram.das16@gmail.com,9352914576,Oracle,Data Analyst,"Mumbai, India",6,Python;SQL;Git,MCA,https://linkedin.com/in/vikramdas16,https://github.com/vikramdas16
+C017,Nisha Mishra,nisha.mishra17@gmail.com,9570753493,Tech Mahindra,Software Engineer,"Pune, India",2,Python;SQL;Git,B.Tech IT,https://linkedin.com/in/nishamishra17,https://github.com/nishamishra17
+C018,John Nair,john.nair18@gmail.com,9673755628,IBM,Software Engineer,"Pune, India",2,Python;Django;PostgreSQL,B.Tech IT,https://linkedin.com/in/johnnair18,https://github.com/johnnair18
+C019,Amit Das,amit.das19@gmail.com,9184682913,Infosys,Python Developer,"Bangalore, India",3,Python;SQL;Git,MCA,https://linkedin.com/in/amitdas19,https://github.com/amitdas19
+C020,Rohan Sharma,rohan.sharma20@gmail.com,9348584045,Oracle,Java Developer,"Pune, India",5,Python;Django;PostgreSQL,B.Tech CSE,https://linkedin.com/in/rohansharma20,https://github.com/rohansharma20
+C021,Manoj Das,manoj.das21@gmail.com,9879444184,Accenture,Backend Developer,"Bangalore, India",8,Python;SQL;Git,B.Tech IT,https://linkedin.com/in/manojdas21,https://github.com/manojdas21
+C022,Sneha Das,sneha.das22@gmail.com,9247249385,Oracle,Software Engineer,"Delhi, India",8,Python;Django;PostgreSQL,B.Tech CSE,https://linkedin.com/in/snehadas22,https://github.com/snehadas22
+C023,Ananya Verma,ananya.verma23@gmail.com,9649654801,Tech Mahindra,Software Engineer,"Bangalore, India",2,Python;Django;PostgreSQL,MCA,https://linkedin.com/in/ananyaverma23,https://github.com/ananyaverma23
+C024,Ravi Mishra,ravi.mishra24@gmail.com,9690598745,Accenture,Python Developer,"Delhi, India",6,Python;SQL;Git,MCA,https://linkedin.com/in/ravimishra24,https://github.com/ravimishra24
+C025,Ruturaj Gupta,ruturaj.gupta25@gmail.com,9964709139,HCL,Python Developer,"Mumbai, India",6,Python;Django;PostgreSQL,MCA,https://linkedin.com/in/ruturajgupta25,https://github.com/ruturajgupta25
+C026,Emily Patel,emily.patel26@gmail.com,9541126767,Wipro,Data Analyst,"Chennai, India",7,C#;ASP.NET Core;SQL Server,B.Tech IT,https://linkedin.com/in/emilypatel26,https://github.com/emilypatel26
+C027,Pooja Reddy,pooja.reddy27@gmail.com,9756196637,TCS,Full Stack Developer,"Hyderabad, India",8,React;Node.js;MongoDB,B.Sc Computer Science,https://linkedin.com/in/poojareddy27,https://github.com/poojareddy27
+C028,Varun Nair,varun.nair28@gmail.com,9857263699,HCL,Python Developer,"Bhubaneswar, India",8,C#;ASP.NET Core;SQL Server,B.Tech IT,https://linkedin.com/in/varunnair28,https://github.com/varunnair28
+C029,Komal Reddy,komal.reddy29@gmail.com,9408117136,Oracle,Backend Developer,"Delhi, India",6,Java;Spring Boot;MySQL,B.Sc Computer Science,https://linkedin.com/in/komalreddy29,https://github.com/komalreddy29
+C030,Priya Gupta,priya.gupta30@gmail.com,9699148877,Infosys,Data Analyst,"Bhubaneswar, India",2,Python;Pandas;Power BI;SQL,MCA,https://linkedin.com/in/priyagupta30,https://github.com/priyagupta30
+C031,Abhishek Padhy,abhishek.padhy31@gmail.com,9611764770,Accenture,Java Developer,"Delhi, India",4,React;Node.js;MongoDB,B.Sc Computer Science,https://linkedin.com/in/abhishekpadhy31,https://github.com/abhishekpadhy31
+C032,Komal Verma,komal.verma32@gmail.com,9208178187,Cognizant,Java Developer,"Hyderabad, India",4,Java;Spring Boot;MySQL,B.Tech CSE,https://linkedin.com/in/komalverma32,https://github.com/komalverma32
+C033,Komal Sharma,komal.sharma33@gmail.com,9712172098,Capgemini,Java Developer,"Pune, India",2,Python;Django;PostgreSQL,B.Tech CSE,https://linkedin.com/in/komalsharma33,https://github.com/komalsharma33
+C034,Rohan Reddy,rohan.reddy34@gmail.com,9961440122,Tech Mahindra,Java Developer,"Hyderabad, India",7,C#;ASP.NET Core;SQL Server,B.Sc Computer Science,https://linkedin.com/in/rohanreddy34,https://github.com/rohanreddy34
+C035,Divya Nair,divya.nair35@gmail.com,9264832392,HCL,Java Developer,"Hyderabad, India",4,Python;Django;PostgreSQL,B.Sc Computer Science,https://linkedin.com/in/divyanair35,https://github.com/divyanair35
+C036,Pooja Padhy,pooja.padhy36@gmail.com,9065714360,IBM,Full Stack Developer,"Pune, India",1,Python;Pandas;Power BI;SQL,B.Tech CSE,https://linkedin.com/in/poojapadhy36,https://github.com/poojapadhy36
+C037,Priya Patel,priya.patel37@gmail.com,9999808500,Cognizant,Full Stack Developer,"Delhi, India",2,Java;Spring Boot;MySQL,B.Sc Computer Science,https://linkedin.com/in/priyapatel37,https://github.com/priyapatel37
+C038,Manoj Singh,manoj.singh38@gmail.com,9688026077,Cognizant,Full Stack Developer,"Pune, India",3,Python;Django;PostgreSQL,MCA,https://linkedin.com/in/manojsingh38,https://github.com/manojsingh38
+C039,Ravi Reddy,ravi.reddy39@gmail.com,9415736960,Cognizant,Python Developer,"Bhubaneswar, India",8,Python;Pandas;Power BI;SQL,B.Tech CSE,https://linkedin.com/in/ravireddy39,https://github.com/ravireddy39
+C040,Nisha Das,nisha.das40@gmail.com,9351531506,Infosys,Java Developer,"Mumbai, India",6,React;Node.js;MongoDB,B.Sc Computer Science,https://linkedin.com/in/nishadas40,https://github.com/nishadas40
