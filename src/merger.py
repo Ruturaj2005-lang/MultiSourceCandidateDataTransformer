@@ -173,7 +173,68 @@ class Merger:
 
             "github": self.csv_data.get("GitHub")
         }
-        
+        profile["provenance"] = {
+
+            "candidate_id": {
+                "source": "recruiter.csv",
+                "method": "CSV Match"
+            },
+
+            "full_name": {
+                "source": "resume.pdf",
+                "method": "Regex Extraction"
+            },
+
+            "emails": {
+                "source": "resume.pdf",
+                "method": "Regex Extraction"
+            },
+
+            "phones": {
+                "source": "resume.pdf",
+                "method": "Regex Extraction"
+            },
+
+            "skills": {
+                "source": "resume.pdf + recruiter.csv",
+                "method": "Keyword Matching + Merge"
+            },
+
+            "education": {
+                "source": "resume.pdf",
+                "method": "Keyword Extraction"
+            },
+
+            "experience": {
+                "source": "resume.pdf",
+                "method": "Regex Extraction"
+            },
+
+            "current_company": {
+                "source": "recruiter.csv",
+                "method": "CSV"
+            },
+
+            "job_title": {
+                "source": "recruiter.csv",
+                "method": "CSV"
+            },
+
+            "location": {
+                "source": "recruiter.csv",
+                "method": "CSV"
+            },
+
+            "linkedin": {
+                "source": "recruiter.csv",
+                "method": "CSV"
+            },
+
+            "github": {
+                "source": "recruiter.csv",
+                "method": "CSV"
+            }
+        }
         return profile
     
 

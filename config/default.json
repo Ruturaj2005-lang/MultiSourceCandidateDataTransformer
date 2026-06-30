@@ -12,14 +12,7 @@
         "location"
     ],
 
-    "rename": {
-        "emails": "primary_email",
-        "phones": "primary_phone"
-    },
+    "include_confidence": false,
 
-    "include_confidence": true,
-
-    "include_provenance": true,
-
-    "on_missing": "null"
+    "include_provenance": true
 }

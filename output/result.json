@@ -1,30 +1,172 @@
 {
     "candidate_id": "C010",
     "full_name": "Ruturaj Padhy",
-    "primary_email": [
+    "emails": [
         "ruturajpadhy2005@gmail.com"
     ],
-    "primary_phone": [
+    "phones": [
         "+917735911353"
     ],
+    "location": {
+        "city": "Pune",
+        "region": "India",
+        "country": null
+    },
+    "links": {
+        "linkedin": "https://linkedin.com/in/ruturajverma10",
+        "github": "https://github.com/ruturajverma10",
+        "portfolio": null,
+        "other": []
+    },
+    "headline": "Data Analyst",
+    "years_experience": 6,
     "skills": [
-        "SQL",
-        "Java",
-        "C#",
-        "ASP.NET Core",
-        "Python",
-        "JavaScript",
-        "Sql Server",
-        "MySQL",
-        "HTML",
-        "CSS"
+        {
+            "name": "MySQL",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "Java",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "C#",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "CSS",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "Sql Server",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "ASP.NET Core",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "Python",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "SQL",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        },
+        {
+            "name": "HTML",
+            "confidence": 1.0,
+            "sources": [
+                "resume.pdf",
+                "recruiter.csv"
+            ]
+        }
     ],
-    "education": "B. Tech (Computer Science and Engineering)",
-    "experience": "6",
-    "current_company": "Capgemini",
-    "job_title": "Data Analyst",
-    "location": "Pune, India",
-    "confidence": {
-        "overall_confidence": 0.45
+    "experience": [
+        {
+            "company": "Capgemini",
+            "title": "Data Analyst",
+            "start": null,
+            "end": null,
+            "summary": null
+        }
+    ],
+    "education": [
+        {
+            "institution": null,
+            "degree": "B. Tech (Computer Science and Engineering)",
+            "field": null,
+            "end_year": null
+        }
+    ],
+    "provenance": {
+        "candidate_id": {
+            "source": "recruiter.csv",
+            "method": "CSV Match"
+        },
+        "full_name": {
+            "source": "resume.pdf",
+            "method": "Regex Extraction"
+        },
+        "emails": {
+            "source": "resume.pdf",
+            "method": "Regex Extraction"
+        },
+        "phones": {
+            "source": "resume.pdf",
+            "method": "Regex Extraction"
+        },
+        "skills": {
+            "source": "resume.pdf + recruiter.csv",
+            "method": "Keyword Matching + Merge"
+        },
+        "education": {
+            "source": "resume.pdf",
+            "method": "Keyword Extraction"
+        },
+        "experience": {
+            "source": "resume.pdf",
+            "method": "Regex Extraction"
+        },
+        "current_company": {
+            "source": "recruiter.csv",
+            "method": "CSV"
+        },
+        "job_title": {
+            "source": "recruiter.csv",
+            "method": "CSV"
+        },
+        "location": {
+            "source": "recruiter.csv",
+            "method": "CSV"
+        },
+        "linkedin": {
+            "source": "recruiter.csv",
+            "method": "CSV"
+        },
+        "github": {
+            "source": "recruiter.csv",
+            "method": "CSV"
+        }
     }
 }
